@@ -507,6 +507,10 @@
 		"/SBICrypto/": {
 			"name": "SBI Crypto",
 			"link": "https://sbicrypto.com"
+		},
+		"one_more_mcd" : {
+			"name" : "EMCD.IO",
+			"link" : "https://pool.emcd.io"
 		}
 	},
 	"payout_addresses" : {

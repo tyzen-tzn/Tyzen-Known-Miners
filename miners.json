@@ -511,6 +511,18 @@
 		"one_more_mcd" : {
 			"name" : "EMCD.IO",
 			"link" : "https://pool.emcd.io"
+		},
+		"BTCPool" : {
+			"name" : "BTCPool",
+			"link" : ""
+		},
+		"Mining-Dutch" : {
+			"name" : "Mining-Dutch",
+			"link" : ""
+		},
+		"/TMSPOOL/" : {
+			"name" : "TMSPool",
+			"link" : ""
 		}
 	},
 	"payout_addresses" : {
@@ -1100,6 +1112,14 @@
 		},
 		"32p7WS5Yr8phj2AKdf8QGpDZvQutf3zR3D" : {
 			"name" : "Unknown 32p7-zR3D",
+			"link" : ""
+		},
+		"1Ca1KNQQo8akbrwTjjXuk8aikvC2pwodU2" : {
+			"name" : "BTCPool",
+			"link" : ""
+		},
+		"13BdM31yx97nc44CMtiX2Ge7ebpex45SiR" : {
+			"name" : "MiningDutch",
 			"link" : ""
 		}
 	},

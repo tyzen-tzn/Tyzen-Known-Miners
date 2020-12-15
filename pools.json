@@ -499,6 +499,14 @@
 		"/2cDw/" : {
 			"name" : "2cDw",
 			"link" : ""
+		},
+		"/SBI Crypto/": {
+			"name": "SBI Crypto",
+			"link": "https://sbicrypto.com"
+		},
+		"/SBICrypto/": {
+			"name": "SBI Crypto",
+			"link": "https://sbicrypto.com"
 		}
 	},
 	"payout_addresses" : {

@@ -5,7 +5,11 @@
 			"link": "https://mining.luxor.tech"
 		},
 		"/1THash&58COIN/": {
-			"name": "58COIN&1THash",
+			"name": "1THash",
+			"link": "https://www.1thash.top"
+		},
+		"/1THash/": {
+			"name": "1THash",
 			"link": "https://www.1thash.top"
 		},
 		"/BTC.COM/" : {
@@ -177,8 +181,8 @@
 			"link" : "http://give-me-coins.com/"
 		},
 		"/slush/" : {
-		   "name" : "SlushPool",
-		   "link" : "https://slushpool.com/"
+			"name" : "SlushPool",
+			"link" : "https://slushpool.com/"
 		},
 		"Mined by AntPool" : {
 			"name" : "AntPool",
@@ -497,8 +501,8 @@
 			"link" : "https://hash.okkong.com"
 		},
 		"/2cDw/" : {
-			"name" : "2cDw",
-			"link" : ""
+			"name" : "Foundry USA",
+			"link" : "https://foundrydigital.com/"
 		},
 		"/SBI Crypto/": {
 			"name": "SBI Crypto",
@@ -508,11 +512,23 @@
 			"name": "SBI Crypto",
 			"link": "https://sbicrypto.com"
 		},
-		"one_more_mcd" : {
-			"name" : "EMCD.IO",
+		"/SBICrypto.com Pool/" : {
+			"name" : "SBI Crypto",
+			"link" : "https://sbicrypto.com"
+		},
+		"SBI Crypto": {
+			"name": "SBI Crypto",
+			"link": "https://www.sbicrypto.com"
+		},
+		"SBICrypto": {
+			"name": "SBI Crypto",
+			"link": "https://www.sbicrypto.com"
+		},
+		"/one_more_mcd/" : {
+			"name" : "EMCDPool",
 			"link" : "https://pool.emcd.io"
 		},
-		"BTCPool" : {
+		"/BTCPool/" : {
 			"name" : "BTCPool",
 			"link" : ""
 		},
@@ -522,7 +538,11 @@
 		},
 		"/TMSPOOL/" : {
 			"name" : "TMSPool",
-			"link" : ""
+			"link" : "https://btc.tmspool.top"
+		},
+		"/Foundry USA Pool #dropgold/" : {
+			"name" : "Foundry USA",
+			"link" : "https://foundrydigital.com/"
 		}
 	},
 	"payout_addresses" : {
@@ -1115,8 +1135,8 @@
 			"link" : "http://www.lubian.com/"
 		},
 		"1FFxkVijzvUPUeHgkFjBk2Qw8j3wQY2cDw" : {
-			"name" : "2cDw",
-			"link" : ""
+			"name" : "Foundry USA",
+			"link" : "https://foundrydigital.com/"
 		},
 		"32p7WS5Yr8phj2AKdf8QGpDZvQutf3zR3D" : {
 			"name" : "Unknown 32p7-zR3D",
@@ -1129,7 +1149,11 @@
 		"13BdM31yx97nc44CMtiX2Ge7ebpex45SiR" : {
 			"name" : "MiningDutch",
 			"link" : ""
-		}
+		},
+		"1Bf9sZvBHPFGVPX71WX2njhd1NXKv5y7v5" : {
+			"name" : "BTC.com",
+			"link" : "https://pool.btc.com"
+		},
 	},
 	"block_hashes" : {
 		"000000008d9dc510f23c2657fc4f67bea30078cc05a90eb89e84cc475c080805": {

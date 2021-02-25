@@ -543,6 +543,14 @@
 		"/Foundry USA Pool #dropgold/" : {
 			"name" : "Foundry USA",
 			"link" : "https://foundrydigital.com/"
+		},
+		"TogetherPool" : {
+			"name" : "TogetherPool",
+			"link" : ""
+		},
+		"/CODEBLACK/" : {
+			"name" : "CODEBLACK",
+			"link" : ""
 		}
 	},
 	"payout_addresses" : {
@@ -1154,6 +1162,14 @@
 			"name" : "BTC.com",
 			"link" : "https://pool.btc.com"
 		},
+		"bc1qwlrsvgtn99rqp3fgaxq6f6jkgms80rnej0a8tc" : {
+			"name" : "TogetherPool",
+			"link" : ""
+		},
+		"1AdbRdfLqxekeTjkybHc84iPQW11t4sGqM" : {
+			"name" : "CODEBLACK",
+			"link" : ""
+		}
 	},
 	"block_hashes" : {
 		"000000008d9dc510f23c2657fc4f67bea30078cc05a90eb89e84cc475c080805": {

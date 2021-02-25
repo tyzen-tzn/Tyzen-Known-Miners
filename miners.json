@@ -468,7 +468,7 @@
 			"name" : "BytePool",
 			"link" : "https://www.bytepool.com/"
 		},
-		"/SpiderPool/": {
+		"SpiderPool": {
 			"name" : "SpiderPool",
 			"link" : "https://www.spiderpool.com/"
 		},
@@ -550,6 +550,10 @@
 		},
 		"/CODEBLACK/" : {
 			"name" : "CODEBLACK",
+			"link" : ""
+		},
+		"ZULUPool" : {
+			"name" : "ZULUPool",
 			"link" : ""
 		}
 	},
@@ -1168,6 +1172,14 @@
 		},
 		"1AdbRdfLqxekeTjkybHc84iPQW11t4sGqM" : {
 			"name" : "CODEBLACK",
+			"link" : ""
+		},
+		"14PUSkxZsGShcNmUBmxcYm5DcFq89S8jEG" : {
+			"name" : "BTCPool",
+			"link" : ""
+		},
+		"1ZULUPooLEQfkrTgynLV4uHyMgQYx71ip" : {
+			"name" : "ZULUPool",
 			"link" : ""
 		}
 	},

@@ -1213,6 +1213,10 @@
 		"bc1q8ej2g5uxdsg0jwl0mpl606qfjxgkyv3p29yf37": {
 			"name": "Rawpool",
 			"link": "https://www.rawpool.com"
+		},
+		"1EKFdxiNJ37LFu7Ambf8TETeBUFKN2SeUh": {
+			"name": "BTCPool",
+			"link": ""
 		}
 	},
 	"block_hashes" : {

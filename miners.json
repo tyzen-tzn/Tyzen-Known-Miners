@@ -552,7 +552,7 @@
 			"name" : "AAO Pool",
 			"link" : "https://btc.tmspool.top"
 		},
-		"/Foundry USA Pool #dropgold/" : {
+		"Foundry USA Pool" : {
 			"name" : "Foundry USA",
 			"link" : "https://foundrydigital.com/"
 		},
@@ -583,6 +583,10 @@
 		"Bitdeer": {
 			"name": "Bitdeer",
 			"link": "https://www.bitdeer.com/"
+		},
+		"KuCoinPool": {
+			"name": "KuCoinPool",
+			"link": "https://www.kucoin.com/mining-pool/"
 		}
 	},
 	"payout_addresses" : {
@@ -1278,6 +1282,10 @@
 			"name" : "MARA Pool",
 			"link" : "https://marathondh.com/"
 		},
+		"1A32KFEX7JNPmU1PVjrtiXRrTQcesT3Nf1" : {
+			"name" : "MARA Pool",
+			"link" : "https://marathondh.com/"
+		},
 		"bc1q7wedv4zdu5smt3shljpu5mgns48jn299mukymc" : {
 			"name" : "F2Pool",
 			"link" : "https://www.f2pool.com/"
@@ -1285,10 +1293,22 @@
 		"1JvXhnHCi6XqcanvrZJ5s2Qiv4tsmm2UMy" : {
 			"name" : "Binance Pool",
 			"link" : "https://pool.binance.com/"
-		}
+		},
+		"1ArTPjj6pV3aNRhLPjJVPYoxB98VLBzUmb": {
+			"name" : "KuCoinPool",
+			"link" : "https://www.kucoin.com/mining-pool/"
+		},
+		"1MkCDCzHpBsYQivp8MxjY5AkTGG1f2baoe": {
+			"name": "Luxor",
+			"link": "https://mining.luxor.tech"
+		},
+		"33SAB6pzbhEGPbfY6NVgRDV7jVfspZ3A3Z": {
+			"name" : "Carbon Negative (unidentified)",
+			"link" : "https://github.com/0xB10C/known-mining-pools/issues/48"
+		},
 	},
 	"unknown_miner_payout_addresses": {
-		"33SAB6pzbhEGPbfY6NVgRDV7jVfspZ3A3Z": {
+		"somePayoutAddress": {
 		}
 	},
 	"block_hashes" : {

@@ -1369,7 +1369,7 @@
 		"3C9sAKXrBVpJVe3b738yik4LPHpPmceBgd": {
 			"name" : "Ultimus Pool",
 			"link" : "https://www.ultimuspool.com/"
-		},
+		}
 	},
 	"unknown_miner_payout_addresses": {
 		"somePayoutAddress": {
